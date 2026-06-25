@@ -1,7 +1,7 @@
 # Quant-Vibe Architecture 3.0
 **Autonomous Multi-Agent Backtesting for Institutional Equity Markets**
 
-**Author:** Chaarudarshini K. | Embedded Systems Laboratory, SASTRA University  
+**Author:** Chaarudarshini K. | Btech CSE(IoT and Automation), SASTRA University  
 **Track:** Agents for Business (Kaggle AI Agents Capstone)
 
 ![Streamlit Dashboard Demonstration](assets/dashboard_execution.png.png)

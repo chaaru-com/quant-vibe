@@ -1,0 +1,25 @@
+# Virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# SQLite database (regenerate via download_data.py + data_janitor.py)
+nifty100.db
+
+# Raw CSV data (regenerate via download_data.py)
+nifty100_historical.csv
+
+# Temporary backtest scripts generated at runtime
+temp_backtest.py
+
+# OS artifacts
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.swp
